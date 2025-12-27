@@ -1,6 +1,6 @@
-# Hi there, Pei Kang here! 👋
+# Hi there, I'm Chin Pei Kang! 👋
 
-### ⚡ Electrical Engineer
+### ⚡ Electrical Engineer | AI & Full-Stack Developer
 **From Circuit Boards to Dashboards.**
 I build intelligent systems that **see** (Computer Vision), **sense** (IoT), and **solve** real-world problems. My work bridges the gap between **Hardware Constraints** and **Modern Web Applications**.
 
@@ -21,15 +21,16 @@ I build intelligent systems that **see** (Computer Vision), **sense** (IoT), and
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Competitions, Hackathons & Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **📝 MyJanji** | **Smart Contract & Biometric Verification**<br>Digital contract platform utilizing **MyKad NFC** and **Face Recognition** for secure, enforceable agreements. | `React` `Flask` `Supabase` `PostgreSQL` |
-| **🧠 Cognia** | **AI Memory Assistant for Dementia**<br>A dual-modal system using vision and voice to assist patients with memory recall and daily tasks. | `YOLO` `AssemblyAI` `React` `Flask` |
-| **🐘 WildGuard** | **Wildlife Conflict Mitigation System**<br>Real-time elephant detection system for rural safety using edge computing. | `YOLOv8` `Raspberry Pi` `Firebase` |
-| **💼 WorkPulse** | **Employee Wellness Platform**<br>Gamified corporate wellness dashboard with zero-hardware monitoring. | `Next.js` `TypeScript` `Radix UI` |
-| **🩺 MyCaring Bot** | **AI Health Kiosk**<br>Diabetes risk assessment kiosk powered by local LLMs and neural networks. | `TensorFlow` `Ollama` `Pandas` |
+| Year | Event / Hackathon | Project (Repo) | Tech Stack | Achievement |
+| :--- | :--- | :--- | :--- | :--- |
+| **2025** | **#ShellSelamatSampai Varsity Challenge** | [**WildGuard Sentinel**](https://github.com/itznotpk/SSSVC2025_SWDD-Pole_WildGuard-Sentinel) | `YOLOv8` `Raspberry Pi` `Firebase` | 🏅 **Top 20 Finalist** |
+| **2025** | **AI in Medicine Bootcamp & Hackathon 2025** | [**Cognia**](https://github.com/itznotpk/Cognia-AI-Memory-Assistance-System-for-Dementia) | `YOLO` `AssemblyAI` `React` `Flask` | 🎗️ **Participant** |
+| **2025** | **Godamlah 2025** | [**MyJanji**](https://github.com/cmcmcm28/MyJanjiV3) | `React` `Flask` `Supabase` `PostgreSQL` | 👨‍💻 **Top 10 Finalist** |
+| **2025** | **UMSIC 2025** | [**WorkPulse**](https://github.com/itznotpk/UMSIC-2025-WorkPulse-App) | `Next.js` `TypeScript` `Radix UI` | 🚀 **Participant** |
+| **2025** | **CREST 2025** | [**Cold Chain Monitor**](https://github.com/itznotpk/CREST-Medical-Cold-Chain-Monitoring-System) | `Chart.js` `Leaflet` `JavaScript` | 📦 **Participant** |
+| **2025** | **MJIC Challenge 2026** | [**MyCaring Bot**](https://github.com/itznotpk/MJIC-AI-Health-Monitoring-Solution) | `TensorFlow` `Ollama` `Pandas` | 🤖 **Participant** |
 
 ---
 
