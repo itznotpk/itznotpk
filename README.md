@@ -34,11 +34,11 @@ I build intelligent systems that **see** (Computer Vision), **sense** (IoT), and
 
 | Year | Event / Hackathon | Project (Repo) | Tech Stack | Achievement |
 | :--- | :--- | :--- | :--- | :--- |
-| **2025** | **Godamlah 2025** | [**MyJanji**](https://github.com/cmcmcm28/MyJanjiV3) | `React` `Flask` `Supabase` `PostgreSQL` | 🏅 **Top 10 Finalist** |
-| **2025** | **#ShellSelamatSampai Varsity Challenge** | [**WildGuard Sentinel**](https://github.com/itznotpk/SSSVC2025_SWDD-Pole_WildGuard-Sentinel) | `YOLOv8` `Raspberry Pi` `Firebase` | 🏅 **Top 20 Finalist** |
-| **2025** | **UM Startup Investor Challenge** | [**WorkPulse**](https://github.com/itznotpk/UMSIC-2025-WorkPulse-App) | `Next.js` `TypeScript` `Radix UI` | **Participant** |
-| **2025** | **AI in Medicine Bootcamp** | [**Cognia**](https://github.com/itznotpk/Cognia-AI-Memory-Assistance-System-for-Dementia) | `YOLO` `AssemblyAI` `React` `Flask` | **Participant** |
-| **2025** | **CREST Medical Grand Design** | [**Cold Chain Monitor**](https://github.com/itznotpk/CREST-Medical-Cold-Chain-Monitoring-System) | `Chart.js` `Leaflet` `JavaScript` | **Participant** |
+| **2025** | **NexG Godamlah 2.0: Smart ID Hackathon 2025** | [**MyJanji**](https://github.com/cmcmcm28/MyJanjiV3) | `React` `Flask` `Supabase` `PostgreSQL` | 🏅 **Top 10 Finalist** |
+| **2025** | **#ShellSelamatSampai Varsity Challenge 2025** | [**WildGuard Sentinel**](https://github.com/itznotpk/SSSVC2025_SWDD-Pole_WildGuard-Sentinel) | `YOLOv8` `Raspberry Pi` `Firebase` | 🏅 **Top 20 Finalist** |
+| **2025** | **UM Startup Investor Challenge 2025** | [**WorkPulse**](https://github.com/itznotpk/UMSIC-2025-WorkPulse-App) | `Next.js` `TypeScript` `Radix UI` | **Participant** |
+| **2025** | **AI in Medicine Bootcamp & Hackathon** | [**Cognia**](https://github.com/itznotpk/Cognia-AI-Memory-Assistance-System-for-Dementia) | `YOLO` `AssemblyAI` `React` `Flask` | **Participant** |
+| **2025** | **CREST 2025 Medical Devices Grand Design Challenge** | [**Cold Chain Monitor**](https://github.com/itznotpk/CREST-Medical-Cold-Chain-Monitoring-System) | `Chart.js` `Leaflet` `JavaScript` | **Participant** |
 | **2025** | **MJIC Challenge 2026** | [**MyCaring Bot**](https://github.com/itznotpk/MJIC-AI-Health-Monitoring-Solution) | `TensorFlow` `Ollama` `Pandas` | **Participant** |
 
 ---
