@@ -1,4 +1,4 @@
-# Hi there, I'm Chin Pei Kang! 👋
+# Hi there, Pei Kang here! 👋
 
 ### ⚡ Electrical Engineer
 **From Circuit Boards to Dashboards.**
