@@ -33,8 +33,8 @@ I build intelligent systems that **see** (Computer Vision), **sense** (IoT), and
 ### 🏆 Competitions, Hackathons & Projects
 
 | Year | Event / Hackathon | Project (Repo) | Tech Stack | Achievement |
-| :--- | :--- | :--- | :--- | :--- |
-| **2026** | **UM IDP x MHNexus CPG LLM Agentic RAG & Knowledge Graph** | [**RAG**]https://github.com/itznotpk/CPG-LLM-Agentic-RAG-Knowledge-Graph, [**Web App**](https://github.com/itznotpk/MHNexus-CPG-LLM)), | `Agentic RAG` `Pydantic AI` `Neo4j & Graphiti` `Neon` `PostgreSQL & Pgvector` |      |
+| :---: | :--- | :--- | :--- | :---: |
+| **2026** | **UM IDP x MHNexus CPG LLM Agentic RAG & Knowledge Graph** | [**RAG**](https://github.com/itznotpk/CPG-LLM-Agentic-RAG-Knowledge-Graph), [**Web App**](https://github.com/itznotpk/MHNexus-CPG-LLM) | `Agentic RAG` `Pydantic AI` `Neo4j & Graphiti` `Neon` `PostgreSQL & Pgvector` | - |
 | **2025** | **NexG Godamlah 2.0: Smart ID Hackathon 2025** | [**MyJanji**](https://github.com/cmcmcm28/MyJanjiV3) | `React` `Flask` `Supabase` `PostgreSQL` | 🥉 **Top 3 Finalist** |
 | **2025** | **#ShellSelamatSampai Varsity Challenge 2025** | [**WildGuard Sentinel**](https://github.com/itznotpk/SSSVC2025_SWDD-Pole_WildGuard-Sentinel) | `YOLOv8` `Raspberry Pi` `Firebase` | 🏅 **Top 20 Finalist** |
 | **2025** | **UM Startup Investor Challenge 2025** | [**WorkPulse**](https://github.com/itznotpk/UMSIC-2025-WorkPulse-App) | `Next.js` `TypeScript` `Radix UI` | **Participant** |
