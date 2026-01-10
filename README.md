@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Pei%20Kang&fontSize=60&fontAlignY=35&desc=Electrical%20Engineer%20|%20AI%20%26%20IoT%20|%20Full-Stack&descAlignY=55&descSize=18)
-
 # Hi, I'm Pei Kang! 👋
 
 ### ⚡ Electrical Engineer
@@ -12,7 +10,7 @@ I build intelligent systems that **see** (Computer Vision), **sense** (IoT), and
 
 ### 🛠️ Core Tech Stack
 
-#### � LLM & Agentic AI
+#### 🤖 LLM & Agentic AI
 **Core Focus:** RAG Systems, Knowledge Graphs, and AI Agents
 <br>
 <p align="left">
@@ -26,7 +24,7 @@ I build intelligent systems that **see** (Computer Vision), **sense** (IoT), and
 
 *Also experienced with:* **Agentic RAG**, **Graphiti**, **Pgvector**, **Neon**
 
-#### �🧠 AI, Computer Vision & IoT
+#### 🧠 AI, Computer Vision & IoT
 **Core Focus:** Computer Vision, Edge AI, and Hardware Integration
 <br>
 <p align="left">
