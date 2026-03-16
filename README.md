@@ -60,7 +60,7 @@ I build intelligent systems that **see** (Computer Vision), **sense** (IoT), and
 | **2025** | **UM Startup Investor Challenge 2025** | [**WorkPulse**](https://github.com/itznotpk/UMSIC-2025-WorkPulse-App) | `Next.js` `TypeScript` `Radix UI` | **Participant** |
 | **2025** | **AI in Medicine Bootcamp & Hackathon** | [**Cognia**](https://github.com/itznotpk/Cognia-AI-Memory-Assistance-System-for-Dementia) | `YOLO` `AssemblyAI` `React` `Flask` | **Participant** |
 | **2025** | **CREST 2025 Medical Devices Grand Design Challenge** | [**Cold Chain Monitor**](https://github.com/itznotpk/CREST-Medical-Cold-Chain-Monitoring-System) | `Chart.js` `Leaflet` `JavaScript` | **Participant** |
-| **2025** | **MJIC Challenge 2026** | [**MyCaring Bot**](https://github.com/itznotpk/MJIC-AI-Health-Monitoring-Solution) | `TensorFlow` `Ollama` `Pandas` | **Participant** |
+| **2025** | **MJIC Challenge 2026** | [**MyCaring Bot**](https://github.com/itznotpk/MJIC-AI-Health-Monitoring-Solution) | `TensorFlow` `Ollama` `Pandas` | **Silver Award** |
 
 ---
 
