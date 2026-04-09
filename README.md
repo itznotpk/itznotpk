@@ -54,8 +54,8 @@ I build intelligent systems that **see** (Computer Vision), **sense** (IoT), and
 
 | Year | Event / Hackathon | Project (Repo) | Tech Stack | Achievement |
 | :---: | :--- | :--- | :--- | :---: |
-| **2026** | **Universiti Malaya Integrated Design Project x MHNexus** | [**Agentic RAG**](https://github.com/itznotpk/CPG-LLM-Agentic-RAG-Knowledge-Graph), [**Web App**](https://github.com/itznotpk/MHNexus-CPG-LLM) | `Agentic RAG` `Pydantic AI` `Neo4j & YOLO`| 🏅 **Top 10 Finalist** |
-| **2026** | **2026 National Health Hackathon** | [**CardioMira Caregiver App**](https://github.com/itznotpk/CardioMira-Smart_Wellness_Mirror), [**CardioMira Smart Mirror Interface**](https://github.com/B-Bong/SmartMirror) | `React Native` `Expo` `Supabase` `PostgreSQL` | 🥉 **2nd-Runner Up** |
+| **2026** | **Universiti Malaya Integrated Design Project x MHNexus** | [**Agentic RAG**](https://github.com/itznotpk/CPG-LLM-Agentic-RAG-Knowledge-Graph), [**Web App**](https://github.com/itznotpk/MHNexus-CPG-LLM) | `Agentic RAG` `Pydantic AI` `Neo4j & Graphiti` `Supabase` `PostgreSQL`| 🏅 **Top 10 Finalist** |
+| **2026** | **2026 National Health Hackathon** | [**CardioMira Caregiver App**](https://github.com/itznotpk/CardioMira-Smart_Wellness_Mirror), [**CardioMira Smart Mirror Interface**](https://github.com/B-Bong/SmartMirror) | `React Native` `Expo` | 🥉 **2nd-Runner Up** |
 | **2025** | **NexG Godamlah 2.0: Smart ID Hackathon 2025** | [**MyJanji**](https://github.com/cmcmcm28/MyJanjiV3) | `React` `Flask` `Supabase` `PostgreSQL` | 🥉 **2nd-Runner Up** |
 | **2025** | **#ShellSelamatSampai Varsity Challenge 2025** | [**WildGuard Sentinel**](https://github.com/itznotpk/SSSVC2025_SWDD-Pole_WildGuard-Sentinel) | `YOLOv8` `Raspberry Pi` `Firebase` | 🏅 **Top 20 Finalist** |
 | **2025** | **UM Startup Investor Challenge 2025** | [**WorkPulse**](https://github.com/itznotpk/UMSIC-2025-WorkPulse-App) | `Next.js` `TypeScript` `Radix UI` | **Participant** |
